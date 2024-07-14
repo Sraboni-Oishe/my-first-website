@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+h1 {
+    font-size:40px;
+}
+.red {
+    color: rgb(49, 203, 157);
+}
+.fluid-container {
+    display:flex;
+    margin-bottom:100px;
+}
+.half-width p{
+    margin-bottom:20px;
+    font-weight:lighter;
+}
+.half-width img{
+    width:80%;
+    padding-left:80px;
+}
+  
